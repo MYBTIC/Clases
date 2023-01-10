@@ -265,8 +265,8 @@ printf("\n\nDigite el tamano de su letra: "); scanf("%i", &tamano);
 while(tamano<6){
 
 
-
     printf("No es el tamano indicado: "); scanf("%i", &tamano);
+
 
 
 
